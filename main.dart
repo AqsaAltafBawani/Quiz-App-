@@ -11,13 +11,13 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyAlbeYnDTGv96eNZ6MtQS2xan5mhI_sBt4",
-        authDomain: "quiz-app-3c18a.firebaseapp.com",
-        databaseURL: "https://quiz-app-3c18a-default-rtdb.firebaseio.com",
-        projectId: "quiz-app-3c18a",
-        storageBucket: "quiz-app-3c18a.firebasestorage.app",
-        messagingSenderId: "732243042270",
-        appId: "1:732243042270:web:3d69389acce779c58a874f",
+        apiKey: ".............",
+        authDomain:  ".............",
+        databaseURL: ".............",
+        projectId:  ".............",
+        storageBucket: ".............", 
+        messagingSenderId:  ".............",
+        appId: ".............",
       ),
     );
   } else {
